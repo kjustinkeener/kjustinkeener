@@ -14,7 +14,7 @@ SQL Server and data engineer with 27 years of experience, currently building too
     <td align="center" width="33%">
       <a href="https://github.com/kjustinkeener/Moonpool"><img src="images/moonpool.png" alt="MoonPool launcher showing a list of local apps and a terminal tab for each" height="240"></a><br>
       <a href="https://github.com/kjustinkeener/Moonpool"><b>MoonPool</b></a><br>
-      Tray launcher for local apps and dev servers (MIT)
+      Tray launcher for local apps and dev servers
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/kjustinkeener/destiny-amp"><img src="images/destiny-amp.png" alt="Destiny-AMP player with two decks, a track pool scored by genre, BPM and key, and a genre graph" height="240"></a><br>
