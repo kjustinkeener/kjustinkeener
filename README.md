@@ -2,6 +2,23 @@
 
 SQL Server and data engineer with 27 years of experience, currently building tools in Rust, Svelte and PostgreSQL. Open to data roles.
 
+## Highlights
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/kjustinkeener/Greedout"><img src="images/greedout.png" alt="Greedout showing context usage and spend for a coding session" height="260"></a><br>
+      <a href="https://github.com/kjustinkeener/Greedout"><b>Greedout</b></a><br>
+      Live AI coding-session context and spend dashboard
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/kjustinkeener/Moonpool"><img src="images/moonpool-review.png" alt="Graphic comparing what Claude and Codex each found while reviewing MoonPool" height="260"></a><br>
+      <a href="https://github.com/kjustinkeener/Moonpool"><b>MoonPool</b></a><br>
+      Tray launcher for local apps and dev servers (MIT)
+    </td>
+  </tr>
+</table>
+
 ## Open source
 - [MoonPool](https://github.com/kjustinkeener/Moonpool): tray launcher for local apps and dev servers (MIT)
 - [Greedout](https://github.com/kjustinkeener/Greedout): live AI coding-session context and spend dashboard
