@@ -1,6 +1,6 @@
 # Justin Keener
 
-SQL Server and data engineer with 27 years of experience, currently building tools in Rust, Svelte and PostgreSQL. Open to data roles.
+SQL Server and data engineer with 27 years of experience, currently building tools in Rust, Svelte and PostgreSQL.
 
 ## Highlights
 
