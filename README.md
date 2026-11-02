@@ -12,7 +12,7 @@ SQL Server and data engineer with 27 years of experience, currently building too
       Live AI coding-session context and spend dashboard
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/kjustinkeener/Moonpool"><img src="images/moonpool-review.png" alt="Graphic comparing what Claude and Codex each found while reviewing MoonPool" height="260"></a><br>
+      <a href="https://github.com/kjustinkeener/Moonpool"><img src="images/moonpool.png" alt="MoonPool launcher showing a list of local apps and a terminal tab for each" height="260"></a><br>
       <a href="https://github.com/kjustinkeener/Moonpool"><b>MoonPool</b></a><br>
       Tray launcher for local apps and dev servers (MIT)
     </td>
